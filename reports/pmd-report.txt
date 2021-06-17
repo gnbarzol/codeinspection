@@ -1,0 +1,8 @@
+src/main/java/labcodeinspection/Email.java:6:	ImmutableField:	ImmutableField: Private field 'm_lastName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:6:	ImmutableField:	ImmutableField: Private field 'm_lastName' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:7:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'password'
+src/main/java/labcodeinspection/Email.java:7:	RedundantFieldInitializer:	RedundantFieldInitializer: Avoid using redundant field initializer for 'password'
+src/main/java/labcodeinspection/Email.java:9:	ImmutableField:	ImmutableField: Private field 'defaultpasswordLength' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:9:	ImmutableField:	ImmutableField: Private field 'defaultpasswordLength' could be made final; it is only initialized in the declaration or constructor.
+src/main/java/labcodeinspection/Email.java:23:	SwitchStmtsShouldHaveDefault:	SwitchStmtsShouldHaveDefault: Switch statements should be exhaustive, add a default case (or missing enum branches)
+src/main/java/labcodeinspection/Email.java:23:	SwitchStmtsShouldHaveDefault:	SwitchStmtsShouldHaveDefault: Switch statements should be exhaustive, add a default case (or missing enum branches)
